@@ -2,4 +2,4 @@
 
 This repository is your starting point for the assignment. Your instructions are detailed on [the Google Doc for this assignment](https://docs.google.com/document/d/14SmkKMa0xYu-7OEY4V5jdzglEz63ibbV-n5gbyY3KmM/edit?usp=sharing).
 
-Link to GitHub pages website: [GitHub Pages](https://kbeske.github.io/homework-assignment-1-kbeske/)
+Link to GitHub pages website: [https://kbeske.github.io/homework-assignment-1-kbeske/](https://kbeske.github.io/homework-assignment-1-kbeske/)
